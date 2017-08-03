@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/fluffy_samurai
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fluffysamurai.io
+  * I am fluffy_samurai (https://keybase.io/fluffy_samurai) on keybase.
+  * I have a public key with fingerprint AF16 5966 EA7E B973 6BBD  D409 FF09 7A40 5F1F 83D7
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fc452ecf1ec0db99456efabf01d2316b748e59f0c1683573b776e012f96d69350a",
+      "fingerprint": "af165966ea7eb9736bbdd409ff097a405f1f83d7",
+      "host": "keybase.io",
+      "key_id": "ff097a405f1f83d7",
+      "kid": "0101be40d3260f8dedeb121c352f487d66852aa86b72f7e12c131b59731066f431a70a",
+      "uid": "41f6b21283e9f727a469e4a129ae1719",
+      "username": "fluffy_samurai"
+    },
+    "merkle_root": {
+      "ctime": 1542681330,
+      "hash_meta": "50cce635ffffe84169d6b8423abea1172831fa3041fab7488c567f7ff76d1f0f",
+      "seqno": 3980137
+    },
+    "revoke": {
+      "sig_ids": [
+        "244132b16351ea1dc0009e91aba89c09a6cbda8168bccfd1626b9979768fd6130f"
+      ]
+    },
+    "service": {
+      "hostname": "fluffysamurai.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1542681336,
+  "expire_in": 157680000,
+  "prev": "413c80fba6e3cf8fa1936ff26232a6e838a0912afaaeedce3cfbf21e7021ae25",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMP9AnicbZN5bBVFHMdbKQiFghgoNCKNG2hRCszs7M7uPpBXjNJyGC4RpcfL7O5M
+u7TvbbvvKC2UUqqVliIoRu4jIpY2QVSCSkwIPGjkMgXFNELbIIiBehJ4QjnE2QqJ
+Gvefzc58f9/fZ76/naNJveIS4+/3q8j0pda0xZ+MLg/H5Vx3bi0RdNssFzxLhCLa
+86LFJg2GfEWWKXgEAEXADEkWqcEgNYCpa5okY8qIzgA0RQSxrkgqlTUGDIhVJCtI
+VxRMeSHTsIk1JAMiZAjMChRQp8SxAiFuSxjEsoYxJQrVNQVhXTdNCWiMAU0hEpAZ
+ZCoyFV5YaAfdCg6nkyAdb9l8jX/4evD+R/+QG0CdSsBEIgZMNalJdShCA8kik1TF
+xFiVRUJUTi8yhULRgAjqMkeBAGMmIUiUHu5wj50EGdZFKKqIakwReUusUYlAUSMU
+KlBzhUHqBIifulTFYcbKfUHiDzvEEiozBD91ioqpz7HtkBuxEbJcIZQlEasQIcCP
+SYKFPj8NEV4vA8OgGMmMP1SVINZMrKuSiIhOCYQKx4CMIMCpiJu+ashYYQpjCjYh
+A4zTBGlpwBY8SFMBRAoncGjELqJu86BVwMMLCp4cQZQkiEQd8l6QO5sGAECjGiQ6
+UTUDaAQbuklUPlfdMJgJsYj5/BVNwSozMUS8VV6l28yJWEaPuTutf6XwIIS/51bi
+2CHbsIv5bmEoVBL0uNmEyktceRnVfQ+MfLoVMPn/wisi1AladoBnxZX/jQ1nCHRx
+ieVQn+UqZI7FDwDcPjTSMzVkqIDpBFNkMJURqCHMmIhFJPI1FakEaFAkjBBKTcMV
+6UyEVAEiJFSU/5GjxDlJAffk6QVIKOxQoTJ6ODchLj4xrk/vR9yLFJfY77GH16so
+Nuh+/p1jf2T6u/snjPTciQTOa2XDn/wUV1z7Xi89dTo6IjAs0Vl44aXCg9Nr6osn
+zGtGt6dkzgcNOaVDIvMT1o6+3Lriva6JS27sG3C9c9GkaZtb9rcempMdiKTdGRC7
+eusFe+PqpXp7sufLjkGtadteyZVuLf3k6R039yY9uj5z6G60BY57vOoLlDBvT0XB
+2K03ZkUPjIA0fnDV5earl66lqXtbf2g6k3P43jf+OU7StZ/6zaw/d+KQOWyynejN
+yd1aX1vXfbtz9qTsNufAuN+eH5jcmTTyRFxWaOTbT6RvzMoIVT+3orrx4z7FR6o+
+8q5NPZWyO4o3JG/vjM6d8daaWTNGF+VOHdrwZovXIBfqJzf6zD7rzxyIvb5tYMeo
+9rmbPg9fqehqK6sZ+3tNS0mSP+B98anNKRWj7s56vz1DW9R9JfW78/3lfTfSd83u
+nbena0j2wYsbgvX1Yn50vLVrZ9rg7Xlnf7m7euLCl1dVLjiePso7fPGUD17dtHLc
+nv3oq4aEpu5j5ph7sep1qTOXvfFnr3BH7Ny2FS3LzGkr7/XPWBcsmFp18PSzzdMv
+3SycULelo3raxp+P76hk5V7tR3l8duBoV21tzfq+XdZr4OL8o2POVklZQ95tbFr6
+7YcBsa3undve/K8/y7xaFrY2n92Zfy79SN2a2IWYrzYvecGMVY3LDyW0PFNqneyb
+O6m7wf6V0ZT2lL8AnUQFRQ==
+=CFl8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fluffy_samurai
+
+==================================================================

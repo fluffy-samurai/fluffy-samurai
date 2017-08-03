@@ -1,0 +1,29 @@
+{
+  "name": "fluffy-samurai",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint:js": "npx standard",
+    "lint:css": "npx stylelint **/*.css"
+  },
+  "standard": {
+    "ignore": [
+      "*.test.js"
+    ]
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.10"
+  },
+  "devDependencies": {
+    "react-router-dom": "^4.1.2",
+    "standard": "^10.0.2",
+    "stylelint": "^8.0.0",
+    "stylelint-config-standard": "^17.0.0"
+  }
+}
