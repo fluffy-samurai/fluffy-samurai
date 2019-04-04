@@ -3,18 +3,6 @@
   publish = "build/"
   command = "npm run build"
 
-[[redirects]]
-  from = "https://fluffysamurai.netlify.com/*"
-  to = "https://fluffysamurai.io/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "http://fluffysamurai.netlify.com/*"
-  to = "http://fluffysamurai.io/:splat"
-  status = 301
-  force = true
-
 [[headers]]
   for = "/*"
 

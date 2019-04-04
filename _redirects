@@ -1,0 +1,8 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect domain aliases to primary domain
+https://fluffysamurai.io/* https://nia.dev/:splat 301!
+https://fluffysamurai.dev/* https://nia.dev/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://fluffysamurai.netlify.com/* https://nia.dev/:splat 301!
