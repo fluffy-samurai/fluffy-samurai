@@ -1,6 +1,7 @@
 import React from 'react'
 import {
   AppContainer,
+  HomeHeader,
   HomeIcon,
   HomeLink,
   HomeLinkContainer,
@@ -11,7 +12,9 @@ export const Home = () => (
   <AppContainer>
     <HomeIcon src={Icon} />
 
-    <h1>Nia Watts</h1>
+    <HomeHeader>Nia Watts</HomeHeader>
+    <span>Software Engineer</span>
+    <span>she/her</span>
 
     <HomeLinkContainer>
       <HomeLink href='mailto:nia@nia.dev'>nia@nia.dev</HomeLink>

@@ -3,11 +3,12 @@ import styled from 'styled-components'
 export const AppContainer = styled.div`
   height: 100%;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: safe center;
+  justify-content: safe center;
   flex-flow: column nowrap;
   background-color: darkslategray;
   color: white;
+  overflow: auto;
 `
 
 export const HomeIcon = styled.img`
@@ -16,7 +17,13 @@ export const HomeIcon = styled.img`
   margin: 8px;
 `
 
+export const HomeHeader = styled.h1`
+  margin: 0;
+  padding: 0;
+`
+
 export const HomeLinkContainer = styled.div`
+  margin-top: 16px;
   display: flex;
 `
 
