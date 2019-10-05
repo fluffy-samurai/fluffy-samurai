@@ -1,5 +1,4 @@
 import React, { memo } from 'react'
+import { GlobalView } from '../global-view'
 
-import { AppContainer } from './root-styles'
-
-export const App = () => <AppContainer>Test</AppContainer>
+export const App = () => <GlobalView />
