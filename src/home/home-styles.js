@@ -10,17 +10,17 @@ export const AppContainer = styled.div`
   color: white;
 `
 
-export const GlobalIcon = styled.img`
+export const HomeIcon = styled.img`
   width: 120px;
   height: auto;
   margin: 8px;
 `
 
-export const GlobalLinkContainer = styled.div`
+export const HomeLinkContainer = styled.div`
   display: flex;
 `
 
-export const GlobalLink = styled.a`
+export const HomeLink = styled.a`
   margin: 8px;
   text-decoration: none;
   color: orchid;

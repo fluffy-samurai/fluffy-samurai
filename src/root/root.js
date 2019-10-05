@@ -1,4 +1,4 @@
 import React from 'react'
-import { GlobalView } from '../global-view'
+import { Home } from '../home'
 
-export const App = () => <GlobalView />
+export const App = () => <Home />
