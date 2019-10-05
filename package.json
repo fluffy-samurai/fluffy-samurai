@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "build": "parcel build index.html && cp _redirects dist",
     "prettier": "prettier './**/*.{js,jsx,json,html,md,mdx,yml}'",
     "prettier:check": "npm run prettier -- -c",
     "prettier:fix": "npm run prettier -- --write"
