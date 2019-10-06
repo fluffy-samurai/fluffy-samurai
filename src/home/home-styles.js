@@ -40,5 +40,5 @@ export const HomeLinkContainer = styled.div`
 export const HomeLink = styled.a`
   margin: 8px;
   text-decoration: none;
-  color: orchid;
+  color: aqua;
 `
