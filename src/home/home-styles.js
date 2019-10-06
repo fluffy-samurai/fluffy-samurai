@@ -20,11 +20,21 @@ export const HomeIcon = styled.img`
 export const HomeHeader = styled.h1`
   margin: 0;
   padding: 0;
+  text-align: center;
+`
+
+export const HomeText = styled.span`
+  margin: 0;
+  padding: 0;
+  text-align: center;
 `
 
 export const HomeLinkContainer = styled.div`
   margin-top: 16px;
   display: flex;
+  flex-flow: row wrap;
+  align-items: safe center;
+  justify-content: safe center;
 `
 
 export const HomeLink = styled.a`
