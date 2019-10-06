@@ -6,15 +6,15 @@ export const AppContainer = styled.div`
   align-items: safe center;
   justify-content: safe center;
   flex-flow: column nowrap;
-  background-color: darkslategray;
-  color: white;
+  background-color: ${props => props.theme.colors.background};
+  color: ${props => props.theme.colors.text};
   overflow: auto;
 `
 
 export const HomeIcon = styled.img`
-  width: 120px;
+  width: ${props => props.theme.spacing * 15}px;
   height: auto;
-  margin: 8px;
+  margin: ${props => props.theme.spacing}px;
 `
 
 export const HomeHeader = styled.h1`
@@ -30,7 +30,7 @@ export const HomeText = styled.span`
 `
 
 export const HomeLinkContainer = styled.div`
-  margin-top: 16px;
+  margin-top: ${props => props.theme.spacing * 2}px;
   display: flex;
   flex-flow: row wrap;
   align-items: safe center;
@@ -38,7 +38,7 @@ export const HomeLinkContainer = styled.div`
 `
 
 export const HomeLink = styled.a`
-  margin: 8px;
+  margin: ${props => props.theme.spacing}px;
   text-decoration: none;
-  color: aqua;
+  color: ${props => props.theme.colors.link};
 `
