@@ -23,9 +23,14 @@ export const HomeHeader = styled.h1`
   text-align: center;
 `
 
-export const HomeText = styled.span`
+export const HomeSubheader = styled.h2`
   margin: 0;
   padding: 0;
+  text-align: center;
+`
+
+export const HomeTextContainer = styled.div`
+  margin-top: ${props => props.theme.spacing * 2}px;
   text-align: center;
 `
 
@@ -38,7 +43,7 @@ export const HomeLinkContainer = styled.div`
 `
 
 export const HomeLink = styled.a`
-  margin: ${props => props.theme.spacing}px;
+  margin: 0 ${props => props.theme.spacing}px;
   text-decoration: none;
   color: ${props => props.theme.colors.link};
 `

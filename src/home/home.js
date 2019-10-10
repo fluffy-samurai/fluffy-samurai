@@ -5,7 +5,8 @@ import {
   HomeIcon,
   HomeLink,
   HomeLinkContainer,
-  HomeText,
+  HomeSubheader,
+  HomeTextContainer,
 } from './home-styles'
 import Icon from '/static/icon.png'
 
@@ -14,8 +15,12 @@ export const Home = () => (
     <HomeIcon src={Icon} alt='cat wearing samurai wear and wielding a sword' />
 
     <HomeHeader>Nia Watts</HomeHeader>
-    <HomeText>Software Engineer</HomeText>
-    <HomeText>she/her</HomeText>
+    <HomeSubheader>Fluffy Samurai</HomeSubheader>
+    <HomeTextContainer>
+      <span>Software Engineer</span>
+      <br />
+      <span>she/her</span>
+    </HomeTextContainer>
 
     <HomeLinkContainer>
       <HomeLink href='mailto:nia@nia.dev' rel='noreferrer'>
